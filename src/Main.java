@@ -1,6 +1,6 @@
 public static void main(String[] args){
     int num = 15;
-    System.out.print(func(num));
+    System.out.print(recurs(num));
 }
 
 public static int func (int origin) {
@@ -24,3 +24,35 @@ public static int func (int origin) {
 
     return cont;
 }
+
+public static int recurs (int origin) {
+
+    //desenvolver versão recursiva
+
+    return cont;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
